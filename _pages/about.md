@@ -32,6 +32,7 @@ My goal is to develop robust methods to perceive and understand human behavior i
 - 03/2022: One papers accepted to CVPR2022.
  
 **Misc**
+up
 I am a big fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor))
 
 Feel free to reach out to me for discussions or collaborations.

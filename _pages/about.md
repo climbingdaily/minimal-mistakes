@@ -20,20 +20,22 @@ redirect_from:
   - /daiyudi.html
 ---
 
-I am a forth-year PhD student at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) in [Xiamen University](https://en.xmu.edu.cn/), supervised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). Before that, I obtained my B.E. from Xiamen University in 2016, and started my M.S. studies in 2017. 
+I am a fourth-year PhD student at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) in [Xiamen University](https://en.xmu.edu.cn/), supervised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). Before that, I obtained my B.E. from Xiamen University in 2016, and started my M.S. studies in 2017. 
 My research interests focus on 3D Computer Vision, including scene mapping, scene-aware 4D human motion capturing and Human-scene interaction reconstruction. 
 My goal is to develop robust methods to perceive and understand human behavior in complex environments.
 
-Additionally, I am a big fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor))
+**News!**
+
+- 06/2023: Started research intern at [VLG](https://vlg.inf.ethz.ch/) group in ETHZ, co-supervised by [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and [Prof. Christian Holz](https://www.christianholz.net/). 
+- 04/2023: [SLOPER4D](http://www.lidarhumanmotion.net/sloper4d/) dataset V1.0 released!
+- 02/2023: Two papers accepted to CVPR2023.
+- 03/2022: One papers accepted to CVPR2022.
+ 
+**Misc**
+I am a big fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor))
 
 Feel free to reach out to me for discussions or collaborations.
 
-**News!**
-06/2023: Started research intern at [VLG](https://vlg.inf.ethz.ch/) group in ETHZ, co-supervised by [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and [Prof. Christian Holz](https://www.christianholz.net/). 
-04/2023: [SLOPER4D](http://www.lidarhumanmotion.net/sloper4d/) dataset V1.0 released!
-02/2023: Two papers accepted to CVPR2023.
-03/2022: One papers accepted to CVPR2022.
- 
 
 <!-- ## Selected Publications
 

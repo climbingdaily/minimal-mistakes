@@ -26,10 +26,10 @@ My goal is to develop robust methods to perceive and understand human behavior i
 
 **News!**
 
-- 06/2023: Started research intern at [VLG](https://vlg.inf.ethz.ch/) group in ETHZ, co-supervised by [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and [Prof. Christian Holz](https://www.christianholz.net/). 
+- 06/2023: Started a research internship at [VLG](https://vlg.inf.ethz.ch/) group in ETHZ, co-supervised by [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and [Prof. Christian Holz](https://www.christianholz.net/). 
 - 04/2023: [SLOPER4D](http://www.lidarhumanmotion.net/sloper4d/) dataset V1.0 released!
 - 02/2023: Two papers accepted to CVPR2023.
-- 03/2022: One papers accepted to CVPR2022.
+- 03/2022: One paper accepted to CVPR2022.
  
 **Misc**
 

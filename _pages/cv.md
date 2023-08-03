@@ -26,7 +26,7 @@ redirect_from:
 * *2018.01*  Banji Peak / [半脊峰](https://baike.baidu.com/item/%E5%8D%8A%E8%84%8A%E5%B3%B0/9765137?fr=aladdin), Sichuan, China. 5430m, climbed to 4800m.
 * *2015.10* [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5588m, climbed to 5400m
 * *2015.08*  [Mt. Geladaindong](https://www.mountain-forecast.com/peaks/Geladaindong-Peak) / 格拉丹东峰 Qinghai, China. 6621m, summited.
-* *2013.08*  Mt. Jiangsanglamu / [姜桑拉姆峰](https://baike.baidu.com/item/%E5%A7%9C%E6%A1%91%E6%8B%89%E5%A7%86/9277738?fr=aladdin), Tibet, China. 6526m, summited.
+* *2013.08*  [Mt. Jiangsanglamu](https://www.adventuretourchina.com/tour/jiangsanglamu-peak-kang-sang-lamu/) / [姜桑拉姆峰](https://baike.baidu.com/item/%E5%A7%9C%E6%A1%91%E6%8B%89%E5%A7%86/9277738?fr=aladdin), Tibet, China. 6526m, summited.
 
 ## Sport Climbing 
 <!-- * 2014.07 5.11d / 7a -->

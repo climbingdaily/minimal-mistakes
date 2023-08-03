@@ -19,6 +19,7 @@ redirect_from:
 {% include toc %}
 
 ## Mountaineering
+* *2023.07.29*  [Dent Blanche](https://www.planetmountain.com/english/Ice/vie/itineraries/scheda.php?lang=eng&id_itinerario=1949&id_tipologia=39), Valais Alps, canton of Valais, Switzerland. South ridge, AD, 4358m, climbed to 3900m.
 * *2020.08*  [Mt. Animaqing](https://www.mountain-forecast.com/peaks/Amne-Machin/forecasts/6282) / 阿尼玛卿峰, Qinghai, China. 6282m, climbed to 5700m.
 * *2019.08*  [Mt. Haba](https://www.mountain-forecast.com/peaks/Haba-Xue-Shan-Haba-Snow-Mountain/forecasts/5396) / 哈巴雪山, Yunnan, China. 5396m, solo summited.
 * *2018.10*  [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5521m, climbed to 4200m (BC).
@@ -55,6 +56,8 @@ redirect_from:
 * *2013.01* Tianxian Waterfall, Beijing, China. (3 days) 
 
 ## Hiking & Trekking
+* *2023.07.23* [GOeschinensee via Kandersteg](https://fullsuitcase.com/oeschinen-lake-hike/), Bern, Switzerland. 8.2km
+* *2023.07.08* [5-lake hike Pizol](https://www.outdooractive.com/en/route/hiking-route/heidiland/5-seen-wanderung-pizol/24016378/), Switzerland. 10.44km, 2h42min.
 * *2023.02* [Glacier lake and God Fall trails in Yubeng](https://www.alltrails.com/china/yunnan/yubeng), Deqin, Yunnan, China. (3 days)
 * *2015.01 & 2019.04* Mt. Daiyun, Quanzhou, Fujian, China. (3 days)
 * *2015.01* [Mt. Ling](https://www.alltrails.com/trail/china/beijing/mount-ling-summit), Beijing, China. (3 days)

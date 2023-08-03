@@ -56,7 +56,7 @@ redirect_from:
 * *2013.01* Tianxian Waterfall, Beijing, China. (3 days) 
 
 ## Hiking & Trekking
-* *2023.07.23* [GOeschinensee via Kandersteg](https://fullsuitcase.com/oeschinen-lake-hike/), Bern, Switzerland. 8.2km
+* *2023.07.23* [Oeschinensee via Kandersteg](https://fullsuitcase.com/oeschinen-lake-hike/), Bern, Switzerland. 8.2km
 * *2023.07.08* [5-lake hike Pizol](https://www.outdooractive.com/en/route/hiking-route/heidiland/5-seen-wanderung-pizol/24016378/), Switzerland. 10.44km, 2h42min.
 * *2023.02* [Glacier lake and God Fall trails in Yubeng](https://www.alltrails.com/china/yunnan/yubeng), Deqin, Yunnan, China. (3 days)
 * *2015.01 & 2019.04* Mt. Daiyun, Quanzhou, Fujian, China. (3 days)

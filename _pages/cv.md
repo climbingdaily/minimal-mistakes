@@ -18,11 +18,12 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-## Mountaineering
-* *2023.07.29*  [Dent Blanche](https://www.planetmountain.com/english/Ice/vie/itineraries/scheda.php?lang=eng&id_itinerario=1949&id_tipologia=39), Valais Alps, canton of Valais, Switzerland. South ridge, AD, 4358m, climbed to 3900m.
+## Mountain Climbing
+* *2023.09.16*  [Lagginhorn](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/lagginhorn-1000/alpinism/from-the-weissmieshuette-or-from-hohsaas-via-the-wsw-ridge-967/), Switzerland. WSW-Ridge (Normal route), PD, 4010m, climbed to 3630m with Yuxiao.
+* *2023.09.02*  [Clariden](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/clariden-414/alpinism/), Switzerland. Vom Klausenpass über das Iswändli (Normal route), PD, 3267m,  summited with Yuxiao.
+* *2023.07.29*  [Dent Blanche](https://www.planetmountain.com/english/Ice/vie/itineraries/scheda.php?lang=eng&id_itinerario=1949&id_tipologia=39), Valais Alps, canton of Valais, Switzerland. South ridge, AD, 4358m, climbed to 3900m with Mouzhe.
 * *2020.08*  [Mt. Animaqing](https://www.mountain-forecast.com/peaks/Amne-Machin/forecasts/6282) / 阿尼玛卿峰, Qinghai, China. 6282m, climbed to 5700m.
 * *2019.08*  [Mt. Haba](https://www.mountain-forecast.com/peaks/Haba-Xue-Shan-Haba-Snow-Mountain/forecasts/5396) / 哈巴雪山, Yunnan, China. 5396m, solo summited.
-* *2018.10*  [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5521m, climbed to 4200m (BC).
 * *2018.01*  Banji Peak / [半脊峰](https://baike.baidu.com/item/%E5%8D%8A%E8%84%8A%E5%B3%B0/9765137?fr=aladdin), Sichuan, China. 5430m, climbed to 4800m.
 * *2015.10* [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5588m, climbed to 5400m
 * *2015.08*  [Mt. Geladaindong](https://www.mountain-forecast.com/peaks/Geladaindong-Peak) / 格拉丹东峰 Qinghai, China. 6621m, summited.
@@ -56,9 +57,13 @@ redirect_from:
 * *2013.01* Tianxian Waterfall, Beijing, China. (3 days) 
 
 ## Hiking & Trekking
+* *2023.09.09* [Walenstadtberg - Hinterrugg - Walenstadt](https://www.tourentipp.com/de/touren/churfirsten-hinterrugg-bergtour_521.html), St.Gallen, Switzerland. ascent 1380m, 9km, 4h04min. Descent 1743, 6.33km, 1h23min.
+* *2023.08.19* [Gigerwald - Pizol - Pizolhutte](https://www.hikr.org/tour/post15301.html), St.Gallen, Switzerland. 12.46km, ascent 1739m, desent 806m, 6h10min.
+* *2023.08.12* [Metten - Chli Kärpf - Obererbs](https://www.hikr.org/tour/post181283.html), Glarus, Switzerland. 7.24km, ascent 1398m, 3h03min. Desent 997m, 1h33min.
 * *2023.07.23* [Oeschinensee via Kandersteg](https://fullsuitcase.com/oeschinen-lake-hike/), Bern, Switzerland. 8.2km
 * *2023.07.08* [5-lake hike Pizol](https://www.outdooractive.com/en/route/hiking-route/heidiland/5-seen-wanderung-pizol/24016378/), Switzerland. 10.44km, 2h42min.
 * *2023.02* [Glacier lake and God Fall trails in Yubeng](https://www.alltrails.com/china/yunnan/yubeng), Deqin, Yunnan, China. (3 days)
+* *2018.10*  [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5521m, hiked to BC (4200m).
 * *2015.01 & 2019.04* Mt. Daiyun, Quanzhou, Fujian, China. (3 days)
 * *2015.01* [Mt. Ling](https://www.alltrails.com/trail/china/beijing/mount-ling-summit), Beijing, China. (3 days)
 * *2014.10* Mt. Lingtong - Daqin Shan, Zhangzhou, Fujian, China. (5 days)

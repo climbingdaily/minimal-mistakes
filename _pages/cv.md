@@ -57,13 +57,13 @@ redirect_from:
 * *2013.01* Tianxian Waterfall, Beijing, China. (3 days) 
 
 ## Hiking & Trekking
-* *2023.09.09* [Walenstadtberg - Hinterrugg - Walenstadt](https://www.tourentipp.com/de/touren/churfirsten-hinterrugg-bergtour_521.html), St.Gallen, Switzerland. ascent 1380m, 9km, 4h04min. Descent 1743, 6.33km, 1h23min.
-* *2023.08.19* [Gigerwald - Pizol - Pizolhutte](https://www.hikr.org/tour/post15301.html), St.Gallen, Switzerland. 12.46km, ascent 1739m, desent 806m, 6h10min.
-* *2023.08.12* [Metten - Chli Kärpf - Obererbs](https://www.hikr.org/tour/post181283.html), Glarus, Switzerland. 7.24km, ascent 1398m, 3h03min. Desent 997m, 1h33min.
+* *2023.09.09* [Walenstadtberg - Hinterrugg - Walenstadt](https://www.tourentipp.com/de/touren/churfirsten-hinterrugg-bergtour_521.html), St.Gallen, Switzerland. 9km up, ascent 1380m, 4h04min. 6.33km down, descent 1743m, 1h23min.
+* *2023.08.19* [Gigerwald - Pizol - Pizolhutte](https://www.hikr.org/tour/post15301.html), St.Gallen, Switzerland. 12.46km in total, ascent 1739m, desent 806m, 6h10min.
+* *2023.08.12* [Metten - Chli Kärpf - Obererbs](https://www.hikr.org/tour/post181283.html), Glarus, Switzerland. 7.24km up, ascent 1398m, 3h03min. 4.2km down, desent 997m, 1h33min.
 * *2023.07.23* [Oeschinensee via Kandersteg](https://fullsuitcase.com/oeschinen-lake-hike/), Bern, Switzerland. 8.2km
-* *2023.07.08* [5-lake hike Pizol](https://www.outdooractive.com/en/route/hiking-route/heidiland/5-seen-wanderung-pizol/24016378/), Switzerland. 10.44km, 2h42min.
+* *2023.07.08* [5-lake hike Pizol](https://www.outdooractive.com/en/route/hiking-route/heidiland/5-seen-wanderung-pizol/24016378/), St.Gallen, Switzerland. 10.44km, 2h42min.
 * *2023.02* [Glacier lake and God Fall trails in Yubeng](https://www.alltrails.com/china/yunnan/yubeng), Deqin, Yunnan, China. (3 days)
-* *2018.10*  [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5521m, hiked to BC (4200m).
+* *2018.10*  [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5521m. Hiked to BC (4200m).
 * *2015.01 & 2019.04* Mt. Daiyun, Quanzhou, Fujian, China. (3 days)
 * *2015.01* [Mt. Ling](https://www.alltrails.com/trail/china/beijing/mount-ling-summit), Beijing, China. (3 days)
 * *2014.10* Mt. Lingtong - Daqin Shan, Zhangzhou, Fujian, China. (5 days)

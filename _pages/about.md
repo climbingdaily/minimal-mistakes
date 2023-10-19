@@ -20,7 +20,7 @@ redirect_from:
   - /daiyudi.html
 ---
 
-I am currently an academic guest at [ETH Zurich](https://ethz.ch/en.html), where I am co-supervised by Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and Prof. [Christian Holz](https://www.christianholz.net/). Additionally, I am a PhD student (since 2019) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) in [Xiamen University](https://en.xmu.edu.cn/), supervised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). Before that, I obtained my B.E. (2016) and spent a two-year M.S. study (2017-2019) in Xiamen Uniersity. 
+I am currently an academic guest at [ETH Zurich](https://ethz.ch/en.html), where I am co-supervised by Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and Prof. [Christian Holz](https://www.christianholz.net/). Additionally, I am a PhD student (since 2019) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) in [Xiamen University](https://en.xmu.edu.cn/), supervised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). Before that, I obtained my B.E. (2016) and spent a two-year M.S. study (2017-2019) in Xiamen University. 
 My research interests focus on 3D Computer Vision, including scene mapping, scene-aware 4D human motion capturing and Human-scene interaction reconstruction. 
 My goal is to develop robust methods to perceive and understand human behavior in complex environments.
 

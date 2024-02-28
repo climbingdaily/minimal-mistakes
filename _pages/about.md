@@ -31,11 +31,6 @@ My goal is to develop robust methods to perceive and understand human behavior i
 - 02/2023: Two papers accepted to [CVPR2023](https://cvpr2023.thecvf.com/).
 - 03/2022: One paper accepted to [CVPR2022](https://cvpr2022.thecvf.com/).
  
-{% if site.publications %}
-  {% assign publications = site.publications%}
-  {% include publication-row.html %}
-{% endif%}
-
 **Misc**
 
 I am a big fan of outdoor sports, especially rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor)).

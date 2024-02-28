@@ -25,12 +25,17 @@ My research interests focus on 3D Computer Vision, including scene mapping, scen
 My goal is to develop robust methods to perceive and understand human behavior in complex environments.
 
 **News!**
-
+- 03/2024: One paper accepted to [CVPR2024](https://cvpr.thecvf.com/).
 - 06/2023: Invited as an academic guest in [VLG](https://vlg.inf.ethz.ch/) and [SIPLAB](https://siplab.org/) at [ETH Zurich](https://ethz.ch/en.html).
 - 04/2023: [SLOPER4D](http://www.lidarhumanmotion.net/sloper4d/) dataset V1.0 released!
 - 02/2023: Two papers accepted to [CVPR2023](https://cvpr2023.thecvf.com/).
 - 03/2022: One paper accepted to [CVPR2022](https://cvpr2022.thecvf.com/).
  
+{% if site.publications %}
+  {% assign publications = site.publications%}
+  {% include publication-row.html %}
+{% endif%}
+
 **Misc**
 
 I am a big fan of outdoor sports, especially rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor)).

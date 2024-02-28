@@ -2,14 +2,13 @@
 layout: single
 permalink: /
 title: "Yudi Dai"
-excerpt: "Love life more than the meaning of it. <br><br><br>"
+excerpt: "Love life more than the meaning of it. <br><br>"
 author_profile: true
 
 header:
   # overlay_color: "#9EA0A3"
   overlay_image: /images/flumsberg.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
-  tagline: "<br><br><br><br><br><br><br><br>"
 
 redirect_from: 
   - /about/

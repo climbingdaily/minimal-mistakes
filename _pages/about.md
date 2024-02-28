@@ -9,7 +9,7 @@ header:
   # overlay_color: "#9EA0A3"
   overlay_image: /images/flumsberg.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
-  tagline: "<br><br><br><br><br>"
+  tagline: "<br><br><br><br><br><br><br><br>"
 
 redirect_from: 
   - /about/

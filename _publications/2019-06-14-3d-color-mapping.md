@@ -7,7 +7,7 @@ date: 2019-06-14
 venue: 'IEEE GRSL'
 journal: IEEE Geoscience and Remote Sensing Letters
 author_profile: false
-author: "Chenglu Wen*, Yudi Dai, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li."
+author: "Chenglu Wen*, <strong>Yudi Dai</strong>, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li."
 paper: "https://ieeexplore.ieee.org/document/8736839"
 project: "/publication/2019-06-14-3d-color-mapping"
 videopath: "/images/grsl2019.mp4"

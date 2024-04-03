@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Yudi Dai"
+title: #"Yudi Dai"
 excerpt: "Love life more than the meaning of it. <br>"
 author_profile: true
 

@@ -21,8 +21,10 @@ redirect_from:
 
 I am a final year PhD student (since 2019) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) in [Xiamen University](https://en.xmu.edu.cn/), supervised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). Before that, I obtained my B.E. (2016) and spent a two-year M.S. study (2017-2019) in Xiamen University. 
 My research interests focus on 3D Computer Vision, including scene mapping, scene-aware 4D human motion capturing and Human-scene interaction reconstruction. 
-My goal is to develop robust methods to perceive and understand human behavior in complex environments. <br>
-** In August 2024, I will be joining [ETH AI Center](https://ai.ethz.ch/) as a post-doc, mainly collaborating with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and Prof. [Christian Holz](https://www.christianholz.net/) **<br>
+My goal is to develop robust methods to perceive and understand human behavior in complex environments. 
+<br>
+**In August 2024, I will be joining [ETH AI Center](https://ai.ethz.ch/) as a post-doc, mainly collaborating with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and Prof. [Christian Holz](https://www.christianholz.net/).**
+<br>
 Feel free to reach out to me for discussions or collaborations.
 
 ## News!

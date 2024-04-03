@@ -21,7 +21,7 @@ redirect_from:
 ## Mountain Climbing
 * *2023.09.16*  [Lagginhorn](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/lagginhorn-1000/alpinism/from-the-weissmieshuette-or-from-hohsaas-via-the-wsw-ridge-967/), Switzerland. WSW-Ridge (Normal route), PD, 4010m, climbed to 3630m with Yuxiao.
 * *2023.09.02*  [Clariden](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/clariden-414/alpinism/), Switzerland. Vom Klausenpass über das Iswändli (Normal route), PD, 3267m,  summited with Yuxiao.
-* *2023.07.29*  [Dent Blanche](https://www.planetmountain.com/english/Ice/vie/itineraries/scheda.php?lang=eng&id_itinerario=1949&id_tipologia=39), Valais Alps, canton of Valais, Switzerland. South ridge, AD, 4358m, climbed to 3900m with Mouzhe.
+* *2023.07.29*  [Dent Blanche](https://www.planetmountain.com/english/Ice/vie/itineraries/scheda.php?lang=eng&id_itinerario=1949&id_tipologia=39), Valais Alps, canton of Valais, Switzerland. South Ridge, AD, 4358m, climbed to 3900m with Mouzhe.
 * *2020.08*  [Mt. Animaqing](https://www.mountain-forecast.com/peaks/Amne-Machin/forecasts/6282) / 阿尼玛卿峰, Qinghai, China. 6282m, climbed to 5700m.
 * *2019.08*  [Mt. Haba](https://www.mountain-forecast.com/peaks/Haba-Xue-Shan-Haba-Snow-Mountain/forecasts/5396) / 哈巴雪山, Yunnan, China. 5396m, solo summited.
 * *2018.01*  Banji Peak / [半脊峰](https://baike.baidu.com/item/%E5%8D%8A%E8%84%8A%E5%B3%B0/9765137?fr=aladdin), Sichuan, China. 5430m, climbed to 4800m.
@@ -30,10 +30,8 @@ redirect_from:
 * *2013.08*  [Mt. Jiangsanglamu](https://www.adventuretourchina.com/tour/jiangsanglamu-peak-kang-sang-lamu/) / [姜桑拉姆峰](https://baike.baidu.com/item/%E5%A7%9C%E6%A1%91%E6%8B%89%E5%A7%86/9277738?fr=aladdin), Tibet, China. 6526m, summited.
 
 ## Sport Climbing 
-<!-- * 2014.07 5.11d / 7a -->
-<!-- * 2017.05 5.12d / 7c -->
 * *2021.05* [Baihe](https://www.thecrag.com/en/climbing/china/beijing/area/12486523), Beijing, China. (6 days)
-  * 5.10b, Azure Dragon, 220m, 9 pitchs. — sent with Tanghui Lin.
+  * 5.10b, Azure Dragon, 220m, 9 pitches. — sent with Tanghui Lin.
 * *2019.10* [Zijinshan](https://www.thecrag.com/climbing/china/zhejiang-jiangsu/tian-chi-hill/area/1885047144), Nanjing, Jiangxu, China. (2 days)
 * *2019.07* [Shigu](https://www.thecrag.com/en/climbing/china/yunnan/area/829141857), Lijiang, Yunnan, China. (10 days)
   * 5.13b/8a, Let me think, redpoint.  — sent with Steven.
@@ -43,12 +41,14 @@ redirect_from:
 * *2017.05* Shigu, Lijiang, Yunnan, China. (1 month)
   * 5.12a/7a+, Under the Dome, flash.  — sent with Jiayao Wei.
 * *2014.08* Yangshuo, Guilin, China. (1 month)
-  * Happy new year, 5.10b, 121m, 6 pitchs. — sent with Jun Li. 
-  * Grandfathered In, 5.10d, 138m, 6 pitchs. — sent with Andrew. 
+  * Happy new year, 5.10b, 121m, 6 pitches. — sent with Jun Li. 
+  * Grandfathered In, 5.10d, 138m, 6 pitches. — sent with Andrew. 
 
 ## Trad Climbing
+* *2024.02.04* [Dachberg](https://www.thecrag.com/en/climbing/switzerland/alpen/graubunden/route/1503894954), Dachberg, Vals, Switzerland.
+  * Tabula rasa, 6a+, 140m, 4 pitches.  — sent with Tim Aiken.
 * *2020.05* [Liming](https://www.thecrag.com/en/climbing/china/yunnan/liming-laojunshan), Lijiang, Yunan, China. (One month)
-  * Soul's awakening, 5.10a, 175m, 6 pitchs.  — sent with Lao Jiang.
+  * Soul's awakening, 5.10a, 175m, 6 pitches.  — sent with LaoJiang.
 
 ## Ice Climbing 
 * *2015.01* Taoyuan Xiangu, Beijing, China. (5 days)
@@ -62,7 +62,7 @@ redirect_from:
 * *2023.08.12* [Metten - Chli Kärpf - Obererbs](https://www.hikr.org/tour/post181283.html), Glarus, Switzerland. 7.24km up, ascent 1398m, 3h03min. 4.2km down, desent 997m, 1h33min.
 * *2023.07.23* [Oeschinensee via Kandersteg](https://fullsuitcase.com/oeschinen-lake-hike/), Bern, Switzerland. 8.2km
 * *2023.07.08* [5-lake hike Pizol](https://www.outdooractive.com/en/route/hiking-route/heidiland/5-seen-wanderung-pizol/24016378/), St.Gallen, Switzerland. 10.44km, 2h42min.
-* *2023.02* [Glacier lake and God Fall trails in Yubeng](https://www.alltrails.com/china/yunnan/yubeng), Deqin, Yunnan, China. (3 days)
+* *2023.02* [Glacier Lake and God Fall trails in Yubeng](https://www.alltrails.com/china/yunnan/yubeng), Deqin, Yunnan, China. (3 days)
 * *2018.10*  [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5521m. Hiked to BC (4200m).
 * *2015.01 & 2019.04* Mt. Daiyun, Quanzhou, Fujian, China. (3 days)
 * *2015.01* [Mt. Ling](https://www.alltrails.com/trail/china/beijing/mount-ling-summit), Beijing, China. (3 days)

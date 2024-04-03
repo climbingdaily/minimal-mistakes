@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: ""
+title: " "
 excerpt: "Love life more than the meaning of it. <br>"
 author_profile: true
 
@@ -35,6 +35,6 @@ Feel free to reach out to me for discussions or collaborations.
 - 03/2022: One paper accepted to [CVPR2022](https://cvpr2022.thecvf.com/).
  
 ## Misc
-I am a big fan of outdoor sports, especially rock climbing, hiking, and mountaineering. Check out my adventures [Here](/outdoor).
+I am a big fan of outdoor sports, especially rock climbing, hiking, and mountaineering. Check out my adventures [here](/outdoor).
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/3.js?i=5xqjws4jj9m&amp;b=5&amp;s=0&amp;m=1&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>

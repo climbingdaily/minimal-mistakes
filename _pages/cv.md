@@ -18,13 +18,14 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-## Mountain Climbing
+## Mountaineering
+* *2024.05.24*  Banji Feng (Half Ridge Peak) / [半脊峰](https://www.peakwiki.org/en/peak.php?pid=2#31.24079,102.92308,14z), Sichuan, China. 5430m, summited. 5h54min, 3560m to top, 6.5km, R1 route. Ranked #10 in VK solo men.
 * *2023.09.16*  [Lagginhorn](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/lagginhorn-1000/alpinism/from-the-weissmieshuette-or-from-hohsaas-via-the-wsw-ridge-967/), Switzerland. WSW-Ridge (Normal route), PD, 4010m, climbed to 3630m with Yuxiao.
 * *2023.09.02*  [Clariden](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/clariden-414/alpinism/), Switzerland. Vom Klausenpass über das Iswändli (Normal route), PD, 3267m,  summited with Yuxiao.
 * *2023.07.29*  [Dent Blanche](https://www.planetmountain.com/english/Ice/vie/itineraries/scheda.php?lang=eng&id_itinerario=1949&id_tipologia=39), Valais Alps, canton of Valais, Switzerland. South Ridge, AD, 4358m, climbed to 3900m with Mouzhe.
 * *2020.08*  [Mt. Animaqing](https://www.mountain-forecast.com/peaks/Amne-Machin/forecasts/6282) / 阿尼玛卿峰, Qinghai, China. 6282m, climbed to 5700m.
 * *2019.08*  [Mt. Haba](https://www.mountain-forecast.com/peaks/Haba-Xue-Shan-Haba-Snow-Mountain/forecasts/5396) / 哈巴雪山, Yunnan, China. 5396m, solo summited.
-* *2018.01*  Banji Peak / [半脊峰](https://baike.baidu.com/item/%E5%8D%8A%E8%84%8A%E5%B3%B0/9765137?fr=aladdin), Sichuan, China. 5430m, climbed to 4800m.
+* *2018.01*  Banji Feng (Half Ridge Peak) / [半脊峰](https://www.peakwiki.org/en/peak.php?pid=2#31.24079,102.92308,14z), Sichuan, China. 5430m, climbed to 4800m.
 * *2015.10* [Mt. Xuebaoding](https://www.mountain-forecast.com/peaks/Mount-Xuebaoding/forecasts/5588) / 雪宝顶, Sichuan, China. 5588m, climbed to 5400m
 * *2015.08*  [Mt. Geladaindong](https://www.mountain-forecast.com/peaks/Geladaindong-Peak) / 格拉丹东峰 Qinghai, China. 6621m, summited.
 * *2013.08*  [Mt. Jiangsanglamu](https://www.adventuretourchina.com/tour/jiangsanglamu-peak-kang-sang-lamu/) / [姜桑拉姆峰](https://baike.baidu.com/item/%E5%A7%9C%E6%A1%91%E6%8B%89%E5%A7%86/9277738?fr=aladdin), Tibet, China. 6526m, summited.
@@ -58,7 +59,7 @@ redirect_from:
 
 ## Hiking & Trekking
 * *2023.09.09* [Walenstadtberg - Hinterrugg - Walenstadt](https://www.tourentipp.com/de/touren/churfirsten-hinterrugg-bergtour_521.html), St.Gallen, Switzerland. 9km up, ascent 1380m, 4h04min. 6.33km down, descent 1743m, 1h23min.
-* *2023.08.19* [Gigerwald - Pizol - Pizolhutte](https://www.hikr.org/tour/post15301.html), St.Gallen, Switzerland. 12.46km in total, ascent 1739m, desent 806m, 6h10min.
+* *2023.08.19* [Gigerwald - Pizol - Pizolhutte](https://www.hikr.org/tour/post15301.html), St.Gallen, Switzerland. 12.46km, ascent 1739m, desent 806m, 6h10min.
 * *2023.08.12* [Metten - Chli Kärpf - Obererbs](https://www.hikr.org/tour/post181283.html), Glarus, Switzerland. 7.24km up, ascent 1398m, 3h03min. 4.2km down, desent 997m, 1h33min.
 * *2023.07.23* [Oeschinensee via Kandersteg](https://fullsuitcase.com/oeschinen-lake-hike/), Bern, Switzerland. 8.2km
 * *2023.07.08* [5-lake hike Pizol](https://www.outdooractive.com/en/route/hiking-route/heidiland/5-seen-wanderung-pizol/24016378/), St.Gallen, Switzerland. 10.44km, 2h42min.

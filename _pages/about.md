@@ -26,14 +26,11 @@ My objective is to develop robust methods to perceive and understand human behav
 
 
 ## News!
-- 07/2024: Our paper HmPEAR accepted to [ACM MM2024](https://2024.acmmm.org/).
-- 03/2024: Our paper [RELI11D](http://www.lidarhumanmotion.net/reli11d/) accepted to [CVPR2024](https://cvpr.thecvf.com/).
+- 07/2024: Our paper HmPEAR was accepted to [ACM MM2024](https://2024.acmmm.org/).
+- 03/2024: Our paper [RELI11D](http://www.lidarhumanmotion.net/reli11d/) was accepted to [CVPR2024](https://cvpr.thecvf.com/).
 - 06/2023: Invited as an academic guest in [VLG](https://vlg.inf.ethz.ch/) and [SIPLAB](https://siplab.org/) at [ETH Zurich](https://ethz.ch/en.html).
 - 04/2023: [SLOPER4D](http://www.lidarhumanmotion.net/data-sloper4d/) dataset V1.0 released!
 - 02/2023: Two papers accepted to [CVPR2023](https://cvpr2023.thecvf.com/).
 - 03/2022: One paper accepted to [CVPR2022](https://cvpr2022.thecvf.com/).
- 
-<!-- ## Misc
-I am a big fan of outdoor sports. Check out my adventures [here](/outdoor) and feel free to ask me out. -->
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/3.js?i=5xqjws4jj9m&amp;b=5&amp;s=0&amp;m=1&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>

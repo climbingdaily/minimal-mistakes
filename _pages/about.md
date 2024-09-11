@@ -26,9 +26,9 @@ My objective is to develop robust methods to perceive and understand human behav
 
 
 ## News!
-- 09/2024: Our paper [HiSC4D](http://www.lidarhumanmotion.net/hisc4d/) was accepted by [TPAMI](https://ieeexplore.ieee.org/document/10670484).
-- 07/2024: Our paper HmPEAR was accepted to [ACM MM2024](https://2024.acmmm.org/).
-- 03/2024: Our paper [RELI11D](http://www.lidarhumanmotion.net/reli11d/) was accepted to [CVPR2024](https://cvpr.thecvf.com/).
+- 09/2024: [HiSC4D](http://www.lidarhumanmotion.net/hisc4d/) was accepted by [TPAMI](https://ieeexplore.ieee.org/document/10670484).
+- 07/2024: HmPEAR was accepted to [ACM MM2024](https://2024.acmmm.org/).
+- 03/2024: [RELI11D](http://www.lidarhumanmotion.net/reli11d/) was accepted to [CVPR2024](https://cvpr.thecvf.com/).
 - 06/2023: Invited as an academic guest in [VLG](https://vlg.inf.ethz.ch/) and [SIPLAB](https://siplab.org/) at [ETH Zurich](https://ethz.ch/en.html).
 - 04/2023: [SLOPER4D](http://www.lidarhumanmotion.net/data-sloper4d/) dataset V1.0 released!
 - 02/2023: Two papers accepted to [CVPR2023](https://cvpr2023.thecvf.com/).

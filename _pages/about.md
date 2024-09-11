@@ -31,7 +31,7 @@ My objective is to develop robust methods to perceive and understand human behav
 - 03/2024: [RELI11D](http://www.lidarhumanmotion.net/reli11d/) was accepted to [CVPR2024](https://cvpr.thecvf.com/).
 - 06/2023: Invited as an academic guest in [VLG](https://vlg.inf.ethz.ch/) and [SIPLAB](https://siplab.org/) at [ETH Zurich](https://ethz.ch/en.html).
 - 04/2023: [SLOPER4D](http://www.lidarhumanmotion.net/data-sloper4d/) dataset V1.0 released!
-- 02/2023: Two papers accepted to [CVPR2023](https://cvpr2023.thecvf.com/).
-- 03/2022: One paper accepted to [CVPR2022](https://cvpr2022.thecvf.com/).
+- 02/2023: Two papers were accepted to [CVPR2023](https://cvpr2023.thecvf.com/).
+- 03/2022: One paper was accepted to [CVPR2022](https://cvpr2022.thecvf.com/).
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/3.js?i=5xqjws4jj9m&amp;b=5&amp;s=0&amp;m=1&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>

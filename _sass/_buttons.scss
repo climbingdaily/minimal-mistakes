@@ -49,6 +49,7 @@
     @each $buttoncolor, $color in $buttoncolors {
       &--#{$buttoncolor} {
         @include yiq-contrasted($color);
+
         @if ($buttoncolor == inverse) {
           border: 1px solid $border-color;
         }
@@ -56,6 +57,13 @@
           border: 1px solid #fff;
         }
   
+        /* 反转颜色逻辑 */
+        &.btn--invert {
+          background-color: #fff; /* 背景为白色 */
+          color: $color; /* 字体颜色为按钮颜色 */
+          border: 1px solid $color; /* 保持边框颜色 */
+        }
+
         &:visited {
           @include yiq-contrasted($color);
         }

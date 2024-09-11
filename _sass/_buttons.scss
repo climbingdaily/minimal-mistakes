@@ -63,12 +63,16 @@
           color: $color; /* 字体颜色为按钮颜色 */
           // border: 1px solid $color; /* 保持边框颜色 */
 
-        /* 访问过的反转按钮状态 */
-        &:visited {
-          background-color: #fff; /* 背景为白色 */
-          color: $color; /* 字体颜色为按钮颜色 */
-          // border: 1px solid $color; /* 保持边框颜色 */
-        }
+          /* 访问过的反转按钮状态 */
+          &:visited {
+            background-color: #fff; /* 背景为白色 */
+            color: $color; /* 字体颜色为按钮颜色 */
+            // border: 1px solid $color; /* 保持边框颜色 */
+          }
+          
+          &:hover {
+            @include yiq-contrasted(mix(#000, $color, 20%));
+          }
         }
 
         &:visited {
